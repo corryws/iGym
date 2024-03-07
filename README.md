@@ -19,3 +19,6 @@ IGym è un'applicazione per la gestione delle schede di allenamento in palestra.
 - #Android
 - #UserExperience
 - #DesignIntuitivo
+
+## Esempio Scheda di Allenamento
+![Esempio Scheda](Scheda.jpg)
